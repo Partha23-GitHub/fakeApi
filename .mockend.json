@@ -7,7 +7,7 @@
       "string": {}
     },
     "dob":{
-      "date":"Y-m-d"
+      "date":"Y-M-D"
     },
  "mobile": {
       "int": {
@@ -43,7 +43,7 @@
       }
     },
      "dateOfExpire":{
-      "date":"Y-m-d"
+      "date":"Y-M-D"
     },
      "vechileBrand": {
       "string": {}
