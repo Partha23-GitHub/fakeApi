@@ -6,9 +6,6 @@
      "name": {
       "string": {}
     },
-    "dob":{
-      "date":"Y-M-D"
-    },
  "mobile": {
       "int": {
         "min": 6000000000,
@@ -41,9 +38,6 @@
         "min": 5000,
         "max": 15000
       }
-    },
-     "dateOfExpire":{
-      "date":"Y-M-D"
     },
      "vechileBrand": {
       "string": {}
